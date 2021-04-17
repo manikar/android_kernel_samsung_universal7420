@@ -3,7 +3,7 @@
 # Linux/arm64 3.10.61 Kernel Configuration
 #
 
-# Hyper-Kernel
+# Manikar-Kernel
 ################################
 CONFIG_STATE_NOTIFIER=y
 ###############################
